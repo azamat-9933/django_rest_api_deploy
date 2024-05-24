@@ -1,0 +1,4 @@
+/.idea
+/staticfiles
+/static
+db.sqlite3
